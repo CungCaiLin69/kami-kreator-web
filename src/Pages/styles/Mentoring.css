@@ -1,0 +1,54 @@
+#mentoring{
+    background-color: #e5d1b8;
+}
+
+.mentoring-title, .kakak-title{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 50px;
+    padding: 50px;
+    color: #2b2129;
+}
+.kakak-title{
+    margin-top: 100px;
+}
+
+.mentoring-sect{
+    display: flex;
+    flex-direction: row;
+}
+
+.mentoring-sect h3{
+    max-width: 800px;
+    margin: 0 10px 50px 100px;
+}
+
+.mentoring1{
+    position: absolute;
+    right: 100px;
+    top: 150px;
+    width: 10%;
+}
+.mentoring2{
+    position: absolute;
+    right: 200px;
+    top: 250px;
+    width: 10%;
+}
+.mentoring3{
+    position: absolute;
+    right: 300px;
+    top: 180px;
+    width: 10%;
+}
+
+.kakak-card{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 10px 0 100px 0;
+}
+.kakak-img{
+    width: 15%;
+    border-radius: 50%;
+}

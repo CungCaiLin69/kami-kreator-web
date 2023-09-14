@@ -1,0 +1,25 @@
+#volunteer{
+    background-color: #e5d1b8;
+}
+
+.volunteer-title{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 50px;
+    padding: 50px;
+    color: #2b2129;
+}
+
+.volunteer-sub{
+    text-align: center;
+    font-size: 25px;
+}
+
+.volunteer-list{
+    font-size: 20px;
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: space-evenly;
+    padding: 50px 0 50px 0;
+}
